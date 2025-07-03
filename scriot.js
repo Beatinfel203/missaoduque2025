@@ -44,7 +44,7 @@ pontos:0
                 ponto: 1
             },
             {
-texto: "Na década de 1 de setembro de 1939",
+texto: "Em de 1 de setembro de 1939",
 afirmação: "resposta errada",
 pontos:0
             }
