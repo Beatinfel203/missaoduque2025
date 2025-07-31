@@ -81,4 +81,18 @@ pontos:0
         ]
     },
 ]
+const perguntas = [
+]
+ },
+ ]
+let atual =0;
+let perguntaAtual;
+let historiafinal="";
+let pontos =0;
 
+function mostrapergunta(){
+    perguntaAtual=perguntas[atual];
+    caixaperguntas.textContent=perguntaAtual.enunciado;
+    caixaAlternativas.textContent="";
+    mostrapergunta();
+}
